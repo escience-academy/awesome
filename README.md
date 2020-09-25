@@ -2,6 +2,14 @@
 
 ## Generic materials
 
+### Lessons
+
+- [Data Carpentry Lessons](https://datacarpentry.org/lessons/). Some are worth being highlighted:
+  - [The Unix Shell](http://swcarpentry.github.io/shell-novice/).
+  - [Version control with git](http://swcarpentry.github.io/git-novice).
+  - Programming with Python. [1](http://swcarpentry.github.io/python-novice-inflammation) and [2](http://swcarpentry.github.io/python-novice-gapminder).
+  - Programming with R. [1](http://swcarpentry.github.io/r-novice-inflammation) and [2](http://swcarpentry.github.io/r-novice-gapminder).
+
 ### Books
 - [Effective computation in Physics](http://physics.codes/). Although the examples use physical problems and `Python` code, this book is probably the best introduction to scientific computing.
 
@@ -36,4 +44,4 @@
   - [dplyr](https://raw.githubusercontent.com/rstudio/cheatsheets/master/data-transformation.pdf).
   - [ggplot2](https://rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf).
   - [RMarkdown](https://raw.githubusercontent.com/rstudio/cheatsheets/master/rmarkdown-2.0.pdf).
-- [Unit testing in R](https://testthat.r-lib.org/)
+- [Unit testing in R](https://testthat.r-lib.org/).
