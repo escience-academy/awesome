@@ -10,6 +10,15 @@
 - [Good enough practices in Scientific Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510).
 - [Ten quick tips for teaching with participatory live coding](https://doi.org/10.1371/journal.pcbi.1008090).
 
+## git-specific materials
+
+### Graphical User Interfaces
+- [Official list](https://git-scm.com/downloads/guis). Some of our favourites are:
+  - [GitKraken](https://www.gitkraken.com/).
+  - [SourceTree](https://www.sourcetreeapp.com/).
+  - [GitHub Desktop](https://desktop.github.com/).
+  - [RStudio git client](https://rstudio.com/resources/webinars/managing-part-2-github-and-rstudio/).
+
 ## R-specific materials
 
 ### Books
