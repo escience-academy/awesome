@@ -29,6 +29,13 @@
 
 ## R-specific materials
 
+### Lessons
+- [RStudio educational material](https://education.rstudio.com/).
+- [Interactive tutorials with `learnr`](https://rstudio.github.io/learnr/).
+- Carpentries courses on R:
+  - [Programming with R](http://swcarpentry.github.io/r-novice-inflammation).
+  - [Programming and plotting with R and Gapminder data](http://swcarpentry.github.io/r-novice-gapminder).
+
 ### Books
 - [Advanced R](https://adv-r.hadley.nz/). Don't let the title scare you. This is probably the best written R book ever.
 - [R Packages](https://r-pkgs.org/).
