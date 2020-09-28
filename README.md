@@ -40,6 +40,7 @@
 - [Advanced R](https://adv-r.hadley.nz/). Don't let the title scare you. This is probably the best written R book ever.
 - [R Packages](https://r-pkgs.org/).
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/).
+- [R for Data Science](https://r4ds.had.co.nz/)
 
 ### Scientific literature
 - [Tidy data](https://vita.had.co.nz/papers/tidy-data.pdf). The basic 3 principles data frames are based on.
