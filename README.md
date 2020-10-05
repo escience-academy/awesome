@@ -18,6 +18,9 @@
 - [Good enough practices in Scientific Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510).
 - [Ten quick tips for teaching with participatory live coding](https://doi.org/10.1371/journal.pcbi.1008090).
 
+### Tools
+- [Witeboard](https://witeboard.com/). A shareable whiteboard app.
+
 ## git-specific materials
 
 ### Graphical User Interfaces
